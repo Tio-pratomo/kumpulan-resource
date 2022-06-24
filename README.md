@@ -1,10 +1,16 @@
-# kumpulan-resource
+# Kumpulan Resource
 
 ## JAVASCRIPT
 ### COMPONENT
 |NAMA|URL|
 |----|---|
 |grid js|https://gridjs.io/|
+
+### BAHAN BACAAN / ARTIKEL
+|NAMA|URL|
+|----|---|
+|Javascript Design Pattern|https://www.patterns.dev/posts/classic-design-patterns/|
+
 
 ### ANIMATION
 |NAMA|URL|
