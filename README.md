@@ -5,6 +5,9 @@
 |NAMA|URL|
 |----|---|
 |grid js|https://gridjs.io/|
+|qrcode js|https://davidshimjs.github.io/qrcodejs/|
+|tinglejs modal|https://tingle.robinparisi.com/|
+|micromodal|https://micromodal.vercel.app/|
 
 ### BAHAN BACAAN / ARTIKEL
 |NAMA|URL|
