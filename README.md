@@ -28,3 +28,10 @@
 |fontawesome|https://fontawesome.com/|
 |tablericons|https://tablericons.com/|
 |boxicons|https://boxicons.com/|
+
+## API
+|NAMA|URL|Butuh API key ?|
+|----|:---:|---------------|
+|mobile legend|https://mapi.mobilelegends.com/hero/list <br> https://mapi.mobilelegends.com/hero/detail?id=idHero|Tidak|
+
+
