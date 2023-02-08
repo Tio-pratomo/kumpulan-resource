@@ -23,6 +23,7 @@
 |animejs|https://animejs.com/|
 |animate.css|https://animate.style|
 |animista|https://animista.net/|
+|hover.css|https://ianlunn.github.io/Hover/|
 
 ## ICON
 |NAMA|URL|
@@ -32,6 +33,7 @@
 |fontawesome|https://fontawesome.com/|
 |tablericons|https://tablericons.com/|
 |boxicons|https://boxicons.com/|
+|potlabicons|https://potlabicons.com/|
 
 ## API
 |NAMA|URL|Butuh API key ?|
