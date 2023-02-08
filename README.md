@@ -8,6 +8,8 @@
 |qrcode js|https://davidshimjs.github.io/qrcodejs/|
 |tinglejs modal|https://tingle.robinparisi.com/|
 |micromodal|https://micromodal.vercel.app/|
+|tiltjs|https://github.com/micku7zu/vanilla-tilt.js|
+|splide|https://splidejs.com/|
 
 ### BAHAN BACAAN / ARTIKEL
 |NAMA|URL|
@@ -19,6 +21,8 @@
 |NAMA|URL|
 |----|---|
 |animejs|https://animejs.com/|
+|animate.css|https://animate.style|
+|animista|https://animista.net/|
 
 ## ICON
 |NAMA|URL|
