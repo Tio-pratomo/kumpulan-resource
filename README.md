@@ -15,6 +15,7 @@
 |NAMA|URL|
 |----|---|
 |Javascript Design Pattern|https://www.patterns.dev/posts/classic-design-patterns/|
+|Basic authentication in Node JS|https://www.geeksforgeeks.org/basic-authentication-in-node-js-using-http-header/|
 
 
 ### ANIMATION
